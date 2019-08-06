@@ -1,6 +1,6 @@
-id=template
-name=Template Module
+id=Deco
+name=GCam Installer
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=Deco
+description=A module which will allow you to install the modded version of Google Camera.
